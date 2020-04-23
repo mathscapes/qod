@@ -36,3 +36,5 @@ Hints
 - the man who smokes blend has a neighbor who drinks water
 
 QOD 4. Write a program to (a) render atleast 100 random points on the screen, and (b) draw lines from current cursor position to points whose distance is less than some threshold value (say 150px). The program should redraw every time cursor moves to a new location and older lines should disappear if the distance between cursor and the point exceeds the threshold. (Suggested medium: p5.js, Est. time: 30-60min)
+
+QOD 5. Take any random number (read natural number >= 1). If your number is even, half it; and if it is odd, triple it and add 1 to it. And repeat the procedure with obtained number. You can stop when you reach at 1. Strangely, you will come back to 1 for most numbers. Through hit and trial, find such a number which cannot be reduced to 1 through above process. If you want to take it a step further, you can try finding such a number using your computer program.
