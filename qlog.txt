@@ -8,7 +8,7 @@ QOD 1. Find the numbers in ? cell.
  
 QOD 2. Write a program to generate unique compositions with following - (a) Exactly one random concave polygon of atleast 6 sides, (b) Exactly two random circular sectors with different central angles, (c) At least 5 and at most 15 lines randomly placed with both terminals in the canvas, (d) One random shape of your choice. The program should generate unique composition each time it is run. Each shape has random fill and stroke color. (Suggested medium: p5.js, Est. time: 30-60min)
  
-QOD 3. Who owns the fish? 
+QOD 3. Who owns the fish? (via https://web.stanford.edu/~laurik/fsmbook/examples/Einstein%27sPuzzle.html)
 
 The situation
 1. There are 5 houses in five different colors. 
